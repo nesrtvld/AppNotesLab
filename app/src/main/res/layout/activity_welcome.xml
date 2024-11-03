@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#8fc0a9">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_your_notes"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:paddingBottom="20dp" />
+
+    <Button
+        android:id="@+id/btn_add_note"
+        android:layout_width="wrap_content"
+        android:backgroundTint="@color/customButtonColor"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="@string/add_new_note" />
+
+    <Button
+        android:id="@+id/btn_view_notes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/customButtonColor"
+        android:text="@string/view_notes"
+        android:layout_marginTop="10dp" />
+</LinearLayout>

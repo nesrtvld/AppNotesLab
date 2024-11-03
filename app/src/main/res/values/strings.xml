@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppNotes</string>
+    <string name="update_note">Update Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_your_note">Enter your note here </string>
+    <string name="save_note">Save Note</string>
+    <string name="please_enter_your_notes_here">Please, enter your notes here</string>
+    <string name="please_choose_the_title">Please choose the title</string>
+    <string name="home">Home</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="new_node">New node</string>
+    <string name="refresh">Update</string>
+    <string name="details">details</string>
+    <string name="welcome_to_your_notes">Welcome to your notes!</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="view_notes">View Notes</string>
+    <string name="select_a_note_to_delete">Select a note to delete</string>
+</resources>
